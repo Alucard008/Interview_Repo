@@ -64,8 +64,9 @@ Use the following JSON to populate your list
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
+## Available Scripts
+This Project was created with node verion 16.13.0 and npm version 8.1.0.
 In the project directory, you can run:
 
 ### `npm start`
