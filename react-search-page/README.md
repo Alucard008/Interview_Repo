@@ -2,7 +2,7 @@
 Technical interview problem/question.
 
 For this task, create a search page with a layout similar to what is shown in the following image
-![Alt text](/task/page-layout.png?raw=true "Search page layout")
+![Alt text](/react-search-page/task/page-layout.png?raw=true "Search page layout")
 
 ## Breakdown
 Your page will have 3 major components namely, the search bar, the listing and the filters. You can use your creativity to arrange the layout however you like but make sure to keep these in your layout. 
